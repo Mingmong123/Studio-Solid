@@ -6,6 +6,7 @@ export default function Home() {
     <main>
       <Title>Halo kelas studio</Title>
       <h1>Halo kelas studio</h1>
+      <counter/>
     </main>
   );
 }
